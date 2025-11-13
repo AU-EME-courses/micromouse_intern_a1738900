@@ -325,4 +325,5 @@ int main() {
         API::setColor(cell.first, cell.second, 'R');  // x is cell.first, y is cell.second
     }
     return 0;
+
 }
